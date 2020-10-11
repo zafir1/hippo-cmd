@@ -1,0 +1,9 @@
+{
+    "basePath" : {
+        "controller" : "./../hippo-application/controllers",
+        "models" : "models"
+    },
+    "user" : {
+        "owner" : "Zafir Ahmad"
+    }
+}
